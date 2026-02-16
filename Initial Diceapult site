@@ -3,5 +3,5 @@ git init
 git add .
 git commit -m "Initial Diceapult site"
 # Create a repo on GitHub, then:
-git remote add origin https://github.com/YOUR_USERNAME/diceapult-site.git
+git remote add origin https://github.com/erburgess/diceapult-site.git
 git push -u origin main
